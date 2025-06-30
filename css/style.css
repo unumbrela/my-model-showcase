@@ -1,0 +1,9 @@
+body { font-family: sans-serif; line-height: 1.6; margin: 0; background-color: #f0f2f5; }
+header, footer { text-align: center; padding: 1.5em; background-color: #24292e; color: white; }
+main { max-width: 900px; margin: 2em auto; padding: 1em; }
+.result-card { background-color: white; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 2em; padding: 1.5em; }
+.result-card h2 { color: #0366d6; border-bottom: 2px solid #f0f2f5; padding-bottom: 0.5em; }
+.result-card img { max-width: 100%; height: auto; border-radius: 4px; margin-top: 1em; }
+a { color: #0366d6; text-decoration: none; }
+a:hover { text-decoration: underline; }
+footer a { color: #58a6ff; }
